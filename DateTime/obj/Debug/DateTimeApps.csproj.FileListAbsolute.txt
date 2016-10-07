@@ -1,0 +1,11 @@
+E:\File\Practice Folder\Web Application\console app\DateTime\DateTime\bin\Debug\DateTime.exe.config
+E:\File\Practice Folder\Web Application\console app\DateTime\DateTime\bin\Debug\DateTime.exe
+E:\File\Practice Folder\Web Application\console app\DateTime\DateTime\bin\Debug\DateTime.pdb
+E:\File\Practice Folder\Web Application\console app\DateTime\DateTime\obj\Debug\DateTime.exe
+E:\File\Practice Folder\Web Application\console app\DateTime\DateTime\obj\Debug\DateTime.pdb
+C:\Users\Osipenko\Downloads\DateTime-master\DateTime-master\DateTime\bin\Debug\DateTime.exe.config
+C:\Users\Osipenko\Downloads\DateTime-master\DateTime-master\DateTime\obj\Debug\DateTime.exe
+C:\Users\Osipenko\Downloads\DateTime-master\DateTime-master\DateTime\obj\Debug\DateTime.pdb
+C:\Users\Osipenko\Downloads\DateTime-master\DateTime-master\DateTime\obj\Debug\DateTimeApps.csprojResolveAssemblyReference.cache
+C:\Users\Osipenko\Downloads\DateTime-master\DateTime-master\DateTime\bin\Debug\DateTime.exe
+C:\Users\Osipenko\Downloads\DateTime-master\DateTime-master\DateTime\bin\Debug\DateTime.pdb
